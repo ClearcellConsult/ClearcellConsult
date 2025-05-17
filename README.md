@@ -36,7 +36,7 @@ tor.py…]()
 
 ## 📩 Kontakt
 
-- 💼 Företagsnamn: ClearCell Consulting  
+- 💼 Företagsnamn: ClearCell Consult
 - 📧 E-post: Contact.clearcell@gmail.com   
 - 💬 Discord: @ClearCell
 
