@@ -28,7 +28,7 @@ Hej! Jag är en 16-årig utvecklare som hjälper företag och föreningar att au
 ## 📩 Kontakt
 
 - 💼 Företagsnamn: ClearCell Consulting  
-- 📧 E-post: Contackt.clearcell@gmail.com   
+- 📧 E-post: Contact.clearcell@gmail.com   
 - 💬 Discord: @ClearCell
 
 
