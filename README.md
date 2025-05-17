@@ -19,7 +19,9 @@ Hej! Jag är en 16-årig utvecklare som hjälper företag och föreningar att au
 
 ## 🧪 Projekt
 
-[clearcell-automation (1).zip](https://github.com/user-attachments/files/20260334/clearcell-automation.1.zip)
+🔹 [`datarensning.py`](projektexempel/datarensning.py)  
+🔹 [`rapportgenerator.py`](projektexempel/rapportgenerator.py)  
+🔹 [`budgetmall_med_balans_vinstmarginal.xlsx`](projektexempel/budgetmall_med_balans_vinstmarginal.xlsx)
 
 
 # Exempelanrop
