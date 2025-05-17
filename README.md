@@ -19,8 +19,15 @@ Hej! Jag är en 16-årig utvecklare som hjälper företag och föreningar att au
 
 ## 🧪 Projekt
 
-- [`datarensning.py`](projektexempel/datarensning.py) – Automatisk städning av Excel-filer
-- [`budgetmall.xlsx`](projektexempel/budgetmall.xlsx) – Komplett budget- och resultatmall med balansräkning
+[clearcell-automation (1).zip](https://github.com/user-attachments/files/20260334/clearcell-automation.1.zip)
+
+
+# Exempelanrop
+if __name__ == "__main__":
+    skapa_rapport("Kostnader.xlsx")  # Byt ut mot din Excel-fil
+tor.py…]()
+
+-  [`budgetmall.xlsx`](projektexempel/budgetmall.xlsx)– Komplett budget- och resultatmall med balansräkning
 - `rapportgenerator.py` (kommer snart!)
 
 ---
@@ -30,6 +37,8 @@ Hej! Jag är en 16-årig utvecklare som hjälper företag och föreningar att au
 - 💼 Företagsnamn: ClearCell Consulting  
 - 📧 E-post: Contact.clearcell@gmail.com   
 - 💬 Discord: @ClearCell
+
+  
 
 
 
