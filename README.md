@@ -23,15 +23,6 @@ Hej! Jag är en 16-årig utvecklare som hjälper företag och föreningar att au
 🔹 [`rapportgenerator.py`](projektexempel/rapportgenerator.py)  
 🔹 [`budgetmall_med_balans_vinstmarginal.xlsx`](projektexempel/budgetmall_med_balans_vinstmarginal.xlsx)
 
-
-# Exempelanrop
-if __name__ == "__main__":
-    skapa_rapport("Kostnader.xlsx")  # Byt ut mot din Excel-fil
-tor.py…]()
-
--  [`budgetmall.xlsx`](projektexempel/budgetmall.xlsx)– Komplett budget- och resultatmall med balansräkning
-- `rapportgenerator.py` (kommer snart!)
-
 ---
 
 ## 📩 Kontakt
